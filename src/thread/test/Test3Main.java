@@ -1,4 +1,4 @@
-package thread.question;
+package thread.test;
 
 import static util.MyLogger.log;
 

@@ -1,6 +1,4 @@
-package thread.question;
-
-import java.io.PrintWriter;
+package thread.test;
 
 import static util.MyLogger.log;
 
